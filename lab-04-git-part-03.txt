@@ -193,7 +193,7 @@ Use a for loop to do this.  Add and save in your repository, push to the remote.
 ==========
 20.  Optional - Try writing this shell script!
 
-In your repository, create an executable shell script called say_twice.  It should take one argument - a filename.  It will cat out the contents of that file twice, with a row of dashes between each (use cat, echo... then cat again).  Create a test file calle foo.txt ... that contains foo, bar and baz... each on separate lines.
+In your repository, create an executable shell script called say_twice.  It should take one argument - a filename.  It will cat out the contents of that file twice, with a row of dashes between each (use cat, echo... then cat again).  Create a test file called foo.txt ... that contains foo, bar and baz... each on separate lines.
 
 Add and save in your repository, push to the remote.
 
