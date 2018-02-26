@@ -184,6 +184,8 @@ In your repository, create an executable shell script called make_5_files that c
 myfile1.txt
 myfile2.txt
 .
+.
+.
 myfile10.txt
 
 Use a for loop to do this.  Add and save in your repository, push to the remote.
